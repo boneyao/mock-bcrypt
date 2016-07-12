@@ -6,7 +6,7 @@ from setuptools import setup
 
 setup(
     name='mockbcrypt',
-    version='0.2.0',
+    version='0.2.1',
     description='A bcrypt mock plugin for nosetests',
     author=', '.join([
         'Bone Yao',
