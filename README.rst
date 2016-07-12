@@ -34,7 +34,9 @@ source frequently::
 Usage
 -----
 
-Run nosetests with the ``--with-mockbcrypt`` flag, a
+Run nosetests with the ``--with-mockbcrypt`` flag
+
+
 License
 -------
 
